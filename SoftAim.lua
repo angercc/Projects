@@ -1,5 +1,4 @@
--- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/angercc/Projects/main/SoftAim.lua"))()
+local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/pnFPxxG3"))()
 Aiming.TeamCheck(false)
 
 -- // Services
