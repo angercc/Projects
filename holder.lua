@@ -1,2 +1,1 @@
-
-getgenv().nothing = 3
+print("niggers")
