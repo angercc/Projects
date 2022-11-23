@@ -1,1 +1,1 @@
-print("niggers")
+getgenv().SilentAir = false
